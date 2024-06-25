@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wiliamgfagundes)
 
 ![Wiliam GitHub stats](https://github-readme-stats.vercel.app/api?username=WiliamGabrielFagundes&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamGabrielFagundes)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
