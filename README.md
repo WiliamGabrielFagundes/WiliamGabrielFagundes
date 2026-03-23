@@ -16,7 +16,11 @@
 </div><br>
 <div>
     <h4>Todos os sites</h4>
-    <a href="http://">Meus Sites</a>
+   <p>Paginas para empresas</p>
+        <a href="https://wiliamgabrielfagundes.github.io/Eletricista_Roque_e_Ieda/">Eletricista Roque & Ieda</a>
+        <a href="https://wiliamgabrielfagundes.github.io/Cantinho-do-Lanche/">Cantinho do Lanche</a>
+        <p>Paginas para pessoas</p>
+        <a href="https://wiliamgabrielfagundes.github.io/gabi/">Gabi</a>
 </div>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
