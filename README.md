@@ -24,6 +24,8 @@
         <a href="https://wiliamgabrielfagundes.github.io/gabi/" target="_blank" rel="noopener noreferrer">Gabi</a>
 </div>
 
+<p>Sobre mim</p>
+
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 contat:
