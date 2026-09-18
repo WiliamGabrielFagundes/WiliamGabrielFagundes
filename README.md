@@ -1,3 +1,8 @@
+<style>
+    background-color: BLUE;
+    
+</style>
+
 ### Olá! Eu sou o Wiliam G. Fagundes 👋
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pinguinzinho01)
